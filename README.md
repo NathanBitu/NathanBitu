@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
-- 🔭 I’m currently working at **Amazon**
+- 🔭 I’m currently working at **Bradesco Bank** as a Data Scientist
 
 - 🌱 I’m currently learning **Python for Data Science**
 
